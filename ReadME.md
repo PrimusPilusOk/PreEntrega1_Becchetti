@@ -1,0 +1,5 @@
+Daniel Becchetti
+
+## Used By
+
+Este proyecto tiene como objetivo la creacion de una pagina web para una clinica veterinaria, el usuario puede interactuar con la página web para obtener información detallada sobre los servicios ofrecidos por la clínica veterinaria, como la atención de mascotas, la realización de exámenes y pruebas, y la venta de productos para animales. Además, el usuario puede programar citas en línea, seleccionando el horario y fecha que mejor se adapte a sus necesidades y recibiendo una confirmación de su cita por correo electrónico. La página web también incluye una sección de noticias y testimonios de clientes satisfechos, para que los usuarios puedan conocer más sobre la calidad de los servicios ofrecidos por la clínica. En general, el objetivo del proyecto es proporcionar una plataforma en línea fácil de usar y accesible para los usuarios, que les permita obtener información sobre los servicios veterinarios y programar citas de manera eficiente y conveniente.
